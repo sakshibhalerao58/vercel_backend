@@ -1,0 +1,12 @@
+[
+  { title: "The Alchemist", author: "Paulo Coelho", year: 1988 },
+  { title: "Atomic Habits", author: "James Clear", year: 2018 },
+  { title: "Rich Dad Poor Dad", author: "Robert Kiyosaki", year: 1997 },
+  { title: "Think and Grow Rich", author: "Napoleon Hill", year: 1937 },
+  { title: "The Psychology of Money", author: "Morgan Housel", year: 2020 },
+  { title: "Ikigai", author: "Héctor García", year: 2016 },
+  { title: "Deep Work", author: "Cal Newport", year: 2016 },
+  { title: "Zero to One", author: "Peter Thiel", year: 2014 },
+  { title: "The Power of Now", author: "Eckhart Tolle", year: 1997 },
+  { title: "Start With Why", author: "Simon Sinek", year: 2009 }
+]
